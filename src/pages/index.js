@@ -132,7 +132,7 @@ export default (() => {
 					</Box>
 				</Box>
 				<Link
-					href="#"
+					href="https://wj.qq.com/s2/9488302/c327/"
 					text-decoration-line="initial"
 					color="--light"
 					font="--lead"
